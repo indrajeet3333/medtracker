@@ -1,2 +1,2 @@
 # medtracker
-Supply Chain Transparency for Medicines and Vaccines
+Django Web-App for Supply Chain Transparency for Medicines and Vaccines
